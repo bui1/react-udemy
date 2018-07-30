@@ -1,9 +1,9 @@
 export default function() {
     return [
-        {title: "JS"},
-        {title: "JS2"},
-        {title: "JS3"},
-        {title: "JS4"}
+        {title: "JS", pages: 101},
+        {title: "JS2", pages: 39},
+        {title: "JS3", pages: 30},
+        {title: "JS4", pages: 1}
     ];
 };
 
